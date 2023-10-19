@@ -21,7 +21,7 @@ O objetivo desse projeto é portar o código para `MicroPython` e executá-lo na
 
 
 # Diagrama do Circuito
-![Esquemático]()
+![esquematico_bb9](https://github.com/julianaklulo/pybr-2023-robo-bb9/assets/8601883/671dc9e7-b4de-4cff-869d-1f096120b13f)
 
 
 ## Hardware
